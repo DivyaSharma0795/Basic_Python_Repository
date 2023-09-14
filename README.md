@@ -1,7 +1,5 @@
-# DukeIDS706_DE Week 02 Assignment [![Python CI](https://github.com/nogibjj/DukeIDS_DE_ds655/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS_DE_ds655/actions/workflows/main.yml)
+# DukeIDS706_DE Week 03 Assignment [![Python CI](https://github.com/nogibjj/DukeIDS_DE_ds655/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS_DE_ds655/actions/workflows/main.yml)
 
-
-This repository is cloned from the template created in Week01 (https://github.com/DivyaSharma0795/DukeIDS706_DE_ds655)
 
 Files in this repository include:
 
