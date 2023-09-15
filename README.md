@@ -1,5 +1,4 @@
-# DukeIDS706_DE Week 03 Assignment [![Python CI](https://github.com/nogibjj/DukeIDS_DE_ds655/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/DukeIDS_DE_ds655/actions/workflows/main.yml)
-
+# This is a default Python repository 
 
 Files in this repository include:
 
@@ -9,37 +8,17 @@ Files in this repository include:
 
 
 ## 2. Requirements
-  The `requirements.txt` file has a list of packages to be installed for any required project. Currently, my requirements file contains some basic python packages, and in addition - Pandas, Seaborn, and Matplotlib
+  The `requirements.txt` file has a list of packages to be installed for any required project. Currently, my requirements file contains some basic python packages.
 
 
 ## 3. Codes
-  This folder contains all the code files used in this repository - the project for this week is _Pandas Descriptive Statistics Script_ , I will be using the Iris dataset for this analysis
-  The code files in this folder are -
-   * `Pandas_Description.py` - this is a python function to share the description of a dataframe
-   * `Pandas_Plot.py` - this is a python function to plot a chart from the dataframe and save it as a png file
-   * `Test_Week2_Pandas.py` - this is a python code to test the functions defined - this function can also be called by the pytest module in the Makefile of the repository.
-
-     ![Make Test Output](https://github.com/nogibjj/DukeIDS706_ds655_Week02/blob/main/Resources/Week2_Successful_Test.png?raw=true)
+  This folder contains all the code files used in this repository - the files named "Test_" will be used for testing and the remaining will define certain functions
 
 
 ## 4. Resources
   -  This folder contains any other files relevant to this project. Currently, I have added -
-  * `iris_dataset` - this is a copy of the iris dataset, in case the link is not accessible (Original link - https://raw.githubusercontent.com/Opensourcefordatascience/Data-sets/master/Iris_Data.csv)
-
-  
-  * `plot image.png` - this is the chart plotted using the `pandas_plot.py` script from the Codes folder - this gets automatically saved here every time the code is run
 
 
-    ![Plot Image Output](https://github.com/nogibjj/DukeIDS706_ds655_Week02/blob/main/Resources/plot%20image.png?raw=true)
-
-
-  * `Summary.md` - This is a markdown file containing the Summary Statistics created using the describe() function in Pandas
-
-    ![Summary Screenshot](https://github.com/nogibjj/DukeIDS706_ds655_Week02/blob/main/Resources/Week2_Summary_Screenshot.png?raw=true)
-
-
-  * This folder also contains all the images used in the README
-    
 ## 5. CI/CD Automation Files
 
 
