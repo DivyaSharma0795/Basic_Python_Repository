@@ -1,5 +1,5 @@
 name: Python CI
-run-name: ${{ github.actor }} checking if Weekly Check files are working
+run-name: ${{ github.actor }} Check if the latest commit is breaking anything
 on:
   push:
     branches: [ "main" ]
